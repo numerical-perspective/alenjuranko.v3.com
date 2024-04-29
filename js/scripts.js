@@ -18,8 +18,9 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Alen',
-    'I design code things for the web',
-    'I\'m currently not accepting freelance work.<br> You can contact me at <a href="mailto:hello@proslijedi.com">hello@proslijedi.com</a>',
+    'I code things for the web',
+    'I\'m currently not accepting freelance work.',
+ 'You can contact me at <a href="mailto:hello@proslijedi.com">hello@proslijedi.com</a>',
     getCurrentTime(),
     '👀 A.'
   ]
